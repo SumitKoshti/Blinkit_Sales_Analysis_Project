@@ -13,3 +13,4 @@ This KPI tracks the total quantity of individual items sold during a specific pe
 
 4. Average Customer Rating:
 This KPI measures the overall satisfaction of customers based on the ratings they provide for purchased items. It is calculated as the average of all ratings received during a defined period. A high average rating indicates strong customer satisfaction and product quality, while a lower rating may signal areas that require improvement. This metric can be segmented by product category, time period, or customer demographics for more granular insights into customer preferences and feedback.
+
